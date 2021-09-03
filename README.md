@@ -13,7 +13,7 @@
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 ### Installing
-`python main.py`
+`python setup.py`
 
 ## 🔧 Running the tests <a name = "tests"></a>
 `python main.py`
