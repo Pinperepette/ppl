@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/ppl/__init__.py
+src/ppl/ppl.py
+src/ppl_pkg_PINPEREPETTE.egg-info/PKG-INFO
+src/ppl_pkg_PINPEREPETTE.egg-info/SOURCES.txt
+src/ppl_pkg_PINPEREPETTE.egg-info/dependency_links.txt
+src/ppl_pkg_PINPEREPETTE.egg-info/top_level.txt
