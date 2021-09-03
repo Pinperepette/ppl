@@ -11,14 +11,17 @@
 ``` python
 #!/usr/bin/env python
 
-''' example file main.py '''
+""" example file main.py """
 
 from ppl  import start, stop
 import time
 
 # start process name processo
 processo = start('python demone.py')
-# if the script takes parameters processo = start(f'python demone.py {parameters}')
+""" 
+if the script takes parameters, 
+processo = start(f'python demone.py {parameters}')
+"""
 time.sleep(10)
 
 # kill process name processo
